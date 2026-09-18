@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rzesz%C3%B3w-PL-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Polska-PL-red?style=flat-square" />
   <img src="https://img.shields.io/badge/focus-security%20%26%20hardware-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/style-DIY%20%2F%20edukacja-blue?style=flat-square" />
 </p>
